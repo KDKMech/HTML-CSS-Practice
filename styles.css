@@ -1,0 +1,81 @@
+.card1 {
+    width: 1440px;
+    height: 797px;
+    background-color: #F2F2F2;
+    outline: auto;
+    position: relative;
+}
+.card1 #tile1 {
+    width: 270px;
+    height: 436px;
+    background-color: white;
+    margin-left: 60px;
+    margin-top: 74px;
+    /* outline: auto; */
+    /* border-color: black; */
+    /* padding: 20px; */
+}
+.card1 .button {
+    width: 200px;
+    height: 60px;
+    line-height: 21.09px;
+    text-align: center;
+    border-radius: 5px;
+
+}
+.card1 #blackBtn {
+    background-color: black;
+    color: white;
+    margin-top: 67px;
+    margin-left: 60px;
+
+}
+.card1 #whiteBtn {
+    background-color: white;
+    color: black;
+    margin-top: 67px;
+    margin-left: 45px;
+}
+
+.card1 #outerSquare {
+    background-color: white;
+    width: 64px;
+    height: 64px;
+    /* padding-top: 206px; */
+    /* padding-left: 206px;    */
+    /* margin-left: 60px; */
+    margin-top: 74px;
+    border-color: black;
+    border-width: 103px;
+    border-style: solid;
+    
+
+ }
+ .card1 #tile1 #textBox {
+    /* background-color: gray; */
+    width: 270px;
+    height: 166px;
+    /* outline: auto; */
+    /* outline-color: blue; */
+ }
+ .card1 #tile1 #textBox #cardText {
+    margin-left: 20px;
+    font-size: 20px;
+    line-height: 23.44px;
+    height: 24px;
+    width: 222px;
+    /* outline: auto; */
+    
+ }
+ .card1 #tile1 #textBox #cardText2 {
+    margin-top: 60px;
+    margin-left: 20px;
+    font-size: 14px;
+    outline: auto;
+    line-height: 19.03px;
+    height: 20px;
+    width: 67px;
+
+
+ } 
+ 

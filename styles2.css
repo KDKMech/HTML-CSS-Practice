@@ -1,0 +1,77 @@
+.card1 {
+    position: relative;
+}
+
+.card1 #background {
+    width: 270px;
+    height: 420px;
+    position: absolute;
+    left: 378px;
+    top: 191px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    background-color: white;
+}
+
+
+.card1 #icon {
+    position: absolute;
+    color: black;
+    height: 54px;
+    width: 54px;
+    background-color: black;
+    top: 220px;
+    left: 486px;
+    border-radius: 100%;
+}
+.card1 #title {
+    position: absolute;
+    font-size: 20px;
+    line-height: 23.44px;
+    text-align: center;
+    height: 24px;
+    width: 40px;
+    left: 493px;
+    top: 283px;
+}
+.card1 #subtitle {
+    position: absolute;
+    top: 311px;
+    width: 194px;
+    height: 32px;
+    left: 416px;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+.card1 #text {
+    position: absolute;
+    text-align: center;
+    height: 100px;
+    width: 193px;
+    top: 373px;
+    left: 417px;
+    line-height: 34px;
+    font-size: 14px;
+    color: gray;
+}
+.card1 #startNow {
+    position: absolute;
+    height: 40px;
+    width: 160px;
+    top: 538px;
+    left: 433px;
+    background-color: white;
+}
+.card1 #startNow #text {
+    position: absolute;
+    height: 17px;
+    width: 127px;
+    text-align: center;
+    font-size: 14px;
+    line-height: 16.41px;
+    top: -5px;
+    left: 17px;
+}
